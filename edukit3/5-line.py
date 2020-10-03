@@ -2,7 +2,7 @@
 # Worksheet 5 - Line Detection
 
 import time
-from gpizero import LineSensor
+from gpiozero import LineSensor
 
 # Set variables for the GPIO pins
 pinLineFollower = 25
